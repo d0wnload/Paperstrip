@@ -1,4 +1,5 @@
 #!/bin/sh
+mkdir clean
 
 for i in *.html
 do
